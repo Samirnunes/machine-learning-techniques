@@ -3,9 +3,8 @@ import ipywidgets as widgets
 from IPython.display import display
 import matplotlib.pyplot as plt
 
-from machine_learning.model_implementation.linear_regression.linear_regression_parameters import \
-    LinearRegressionParameters
-from machine_learning.model_implementation.linear_regression.linear_regressor import LinearRegressor
+from linear_regression_parameters import LinearRegressionParameters
+from linear_regressor import LinearRegressor
 
 
 class LinearRegressorDisplayer(LinearRegressor):
