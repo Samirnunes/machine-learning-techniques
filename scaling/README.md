@@ -11,7 +11,7 @@ In this project, I mention and describe the most commonly used types of scaling 
 Bank Customer Churn Prediction Dataset from Kaggle: https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction?resource=download&source=post_page-----d6fb0580dbd4--------------------------------
 
 <p align="center">
-    <img width="800" src="https://github.com/Samirnunes/data-science/blob/main/machine_learning/machine_learning_techniques/scaling/images/data.png" alt="Material Bread logo">
+    <img width="800" src="https://github.com/Samirnunes/machine-learning-techniques/blob/main/scaling/images/data.png" alt="Material Bread logo">
 <p>
 
 ### Featured Scalings
@@ -19,17 +19,17 @@ Bank Customer Churn Prediction Dataset from Kaggle: https://www.kaggle.com/datas
 - Min-Max: 
 
 <p align="center">
-    <img width="300" src="https://github.com/Samirnunes/data-science/blob/main/machine_learning/machine_learning_techniques/scaling/images/min_max_formula.PNG" alt="Material Bread logo">
+    <img width="300" src="https://github.com/Samirnunes/machine-learning-techniques/blob/main/scaling/images/min_max_formula.PNG" alt="Material Bread logo">
 <p>
 
 - Standard:
 
 <p align="center">
-    <img width="250" src="https://github.com/Samirnunes/data-science/blob/main/machine_learning/machine_learning_techniques/scaling/images/std_formula.PNG" alt="Material Bread logo">
+    <img width="250" src="https://github.com/Samirnunes/machine-learning-techniques/blob/main/scaling/images/std_formula.PNG" alt="Material Bread logo">
 <p>
 
 - Robust:
 
 <p align="center">
-    <img width="300" src="https://github.com/Samirnunes/data-science/blob/main/machine_learning/machine_learning_techniques/scaling/images/robust_formula.PNG" alt="Material Bread logo">
+    <img width="300" src="https://github.com/Samirnunes/machine-learning-techniques/blob/main/scaling/images/robust_formula.PNG" alt="Material Bread logo">
 <p>
